@@ -30,7 +30,7 @@ export default function Home() {
         <section id="hero" className="bg-muted py-20 px-6 text-center">
           <h1 className="text-4xl font-bold mb-4">Welcome to my Portfolio</h1>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Hi, I'm Franco Wang, a passionate software engineering student with strong expertise in Python and a proven track record in solving complex problems on HackerRank.
+            Hi, I&apos;m Franco Wang, a passionate software engineering student with strong expertise in Python and a proven track record in solving complex problems on HackerRank.
           </p>
         </section>
         <section id="about" className="py-20 px-6">
@@ -41,7 +41,7 @@ export default function Home() {
                 <h3 className="text-2xl font-bold mb-4">Academic History</h3>
                 <ul className="space-y-4">
                   <li>
-                    <h4 className="font-bold">Bachelor's in Software Engineering</h4>
+                    <h4 className="font-bold">Bachelor&apos;s in Software Engineering</h4>
                     <p className="text-muted-foreground">Universidad Cenfotec, 2022 - 2025</p>
                   </li>
                   <li>
@@ -49,7 +49,7 @@ export default function Home() {
                     <p className="text-muted-foreground">Universidad Cenfotec, 2022 - 2023</p>
                   </li>
                   <li>
-                    <h4 className="font-bold">Bachelor's in Business Management</h4>
+                    <h4 className="font-bold">Bachelor&apos;s in Business Management</h4>
                     <p className="text-muted-foreground">Universidad de Costa Rica, 2021</p>
                   </li>
                 </ul>
